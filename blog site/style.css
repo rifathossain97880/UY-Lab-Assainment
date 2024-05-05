@@ -5,7 +5,7 @@
   body {
     font-family: Arial;
     padding: 20px;
-    background: #f1f1f1;
+    background: #7469B6;
   }
   
   /* Header/Blog Title */
@@ -13,7 +13,7 @@
     padding: 30px;
     font-size: 40px;
     text-align: center;
-    background: white;
+    background: #AD88C6;
   }
   
   /* Create two unequal columns that floats next to each other */
@@ -32,14 +32,14 @@
   
   /* Fake image */
   .fakeimg {
-    background-color: #aaa;
+    background-color: #E1AFD1;
     width: 100%;
     padding: 20px;
   }
   
   /* Add a card effect for articles */
   .card {
-    background-color: white;
+    background-color: rgb(255, 241, 250);
     padding: 20px;
     margin-top: 20px;
   }

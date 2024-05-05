@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(148, 148, 148);
+    
+}
+.blog-box {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #b7acac;
+    border: 1px solid #ddd;
+    box-shadow: 10 10 10px rgb(255, 0, 0);
+}
+
+.blog-box h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: rgb(119, 132, 132);
+}
+
+.blog-box p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+img{
+    height: 40vh;
+    weight: 40vh;
+}
